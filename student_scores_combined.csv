@@ -1,0 +1,17 @@
+StudentID,Term,Subject,Score,Name,Section
+1,Term1,English,70,Asha,A
+2,Term1,English,65,Rohan,A
+3,Term1,English,80,Meera,B
+4,Term1,English,60,Karan,B
+1,Term2,English,75,Asha,A
+2,Term2,English,68,Rohan,A
+3,Term2,English,82,Meera,B
+4,Term2,English,64,Karan,B
+1,Term1,Maths,85,Asha,A
+2,Term1,Maths,60,Rohan,A
+3,Term1,Maths,75,Meera,B
+4,Term1,Maths,90,Karan,B
+1,Term2,Maths,88,Asha,A
+2,Term2,Maths,63,Rohan,A
+3,Term2,Maths,78,Meera,B
+4,Term2,Maths,92,Karan,B
